@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[LlAMAFACTORY](https://github.com/hiyouga/LLaMA-Factory) is accepted by ACL 2024 Demo Paper Track.
+[LLAMAFACTORY](https://github.com/hiyouga/LLaMA-Factory) is accepted by ACL 2024 Demo Paper Track.
