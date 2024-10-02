@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://scse.buaa.edu.cn/'>School of Computer Science and Engineering.</a> Beihang University, Beijing, China.
 
