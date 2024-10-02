@@ -24,8 +24,6 @@ Office: Room G521, New Main Building
 
 Address: 37 Xueyuan Road, Haidian, Beijing 100191, China
 
-Tel.: (+86) 18600126261
-
 Email: zhangrichong@buaa.edu.cn / zhangrc@act.buaa.edu.cn
 
 [Google Scholar](https://scholar.google.com/citations?user=bjFPXksAAAAJ) | [DBLP](https://dblp.uni-trier.de/pid/61/1229.html)
